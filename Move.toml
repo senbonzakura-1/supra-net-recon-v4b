@@ -1,0 +1,6 @@
+[package]
+name = "NetRecon"
+version = "0.0.1"
+[dependencies]
+[addresses]
+net_recon = "0x1"
